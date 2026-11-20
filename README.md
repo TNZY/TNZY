@@ -13,11 +13,11 @@
 
 | Project | Stack | What it is |
 |---|---|---|
+| **[Cuddles](https://github.com/TNZY/cuddles)** | Java, BetterModel | `/hug`, `/kiss`, `/hand` with generated player animations and accept/deny requests |
+| **[Converter](https://github.com/TNZY/converter)** | Rust, Tauri | Windows app: convert and trim video, download clips, make Telegram stickers |
+| **[MineDash](https://github.com/TNZY/minedash)** | C++, Geode | Geometry Dash mod that puts Minecraft mining and building inside a level |
 | **CoreProtect CE for 26.2** | Java, Paper | Port of CoreProtect CE to Minecraft 26.2 with working database migrations |
-| **Cuddles** | Java, BetterModel | `/hug`, `/kiss`, `/hand` with generated player animations and accept/deny requests |
-| **Converter** | Rust, Tauri | Windows app: convert and trim video, download clips, make Telegram stickers |
-| **MineDash** | C++, Geode | Geometry Dash mod that puts Minecraft mining and building inside a level |
-| **sa-rs** | Rust, Bevy | GTA San Andreas engine rewrite that streams original game assets |
+| **sa-rs** *(private)* | Rust, Bevy | GTA San Andreas engine rewrite that streams original game assets |
 
 ### Stack
 
